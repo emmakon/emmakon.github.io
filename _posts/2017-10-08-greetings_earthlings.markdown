@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Greetings Earthlings"
-date:       2017-10-08 15:28:58 +0000
+date:       2017-10-08 11:28:59 -0400
 permalink:  greetings_earthlings
 ---
 
-*Yes, Greetings Earthlings. Hello World seemed a little too easy. *
+*Yes, Greetings Earthlings. Hello World seemed a little too easy.*
 
 *Disclaimer: this post is a bit of a cushy introduction. There will be more code talk as we go along. /Disclaimer*
 
