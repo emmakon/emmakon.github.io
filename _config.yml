@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Perpetually Coding
 header-img: img/home-bg.png
 email: emma.konrad92@gmail.com
 copyright_name: emmakon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Welcome to the Code-tel California
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: emmakonrad
 github_username:  emmakon
